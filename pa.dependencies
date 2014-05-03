@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "android_device_lge_iprj-common",
+   "target_path": "device/lge/lu6200/iprj-common"
+ },
+ {
+   "repository": "android_vendor_lge_lu6200",
+   "target_path": "vendor/lge/lu6200"
+ },
+ {
+   "repository": "android_kernel_lge_iproj",
+   "target_path": "kernel/lge/iproj"
+ }
+]
